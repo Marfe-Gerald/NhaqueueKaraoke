@@ -1,0 +1,15 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(0, 0, 0, 0.8);
+}
+#title{
+
+}
+nav {
+    display: inline-flex;
+    margin-top: .4em;
+}
+.nav-item{
+    margin-left: .6em;
+    margin-top: 1em;
+}
