@@ -1,9 +1,6 @@
 * {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgba(0, 0, 0, 0.8);
-}
-#title{
-
 }
 nav {
     display: inline-flex;
